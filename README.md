@@ -1,3 +1,3 @@
 # water-plants
 
-https://www.youtube.com/watch?v=KTIMz67ZxmY&t=241s&ab_channel=salihzeki
+Uses capacitive moisture sensor and LM393 Chip for moisture data. 12V DC solenoid (default closed) and 5V relay module for controlling water flow. 
